@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository](https://your-solution-url.com)
-- Live Site URL: [Live Preview](https://your-live-site-url.com)
+- Solution URL: [Repository](https://github.com/Tasnim005/Time-tracking-dashboard-using-Fetch-API)
+- Live Site URL: [Live Preview](https://tasnim005.github.io/Time-tracking-dashboard-using-Fetch-API/)
 
 ## My process
 
